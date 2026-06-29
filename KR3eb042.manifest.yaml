@@ -1,0 +1,77 @@
+canonical_identifier: bkk:krp/KR3eb042/v1
+canonical_location: https://kanripo.org/bkk/KR3eb042/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 重訂時行伏陰芻言
+  identifiers:
+    krp: KR3eb042
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb042.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb042_000.yaml, hash: 'sha256:655415523485f7235aa295628344abfa7a4365f6b46a2caba31e800cdeef0e73'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb042_000.markers.yaml, hash: 'sha256:da39051b2813db2c27008ec36d423dfbce7c55476cc739dd0480edf8289968d9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb042_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 4175
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb042_jc_000-d2d4
+    span:
+    - body
+    - 82
+    - 581
+  label: 時行伏陰總論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb042_jc_000-d2d5
+    span:
+    - body
+    - 581
+    - 1023
+  label: 伏陰霍亂辨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb042_jc_000-d2d6
+    span:
+    - body
+    - 1023
+    - 2574
+  label: 原病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb042_jc_000-d2d7
+    span:
+    - body
+    - 2574
+    - 4175
+  label: 變症
+  type: section
+  level: 2
+hash: sha256:ace7c4bff37aa03c969db48a2a620748dbe49132fa4f7d69f88781404f13f662
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
