@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eb042_000-jc.yaml, hash: 'sha256:2e0b553bbd7d1b3d4004bdc9ad96b4848631c60a4b36ffccbdab7666e6ad3cf7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb042_000-jc.markers.yaml, hash: 'sha256:d50b1c4ab340ac1c90692283fa43d3b56dfbce7c7b592436d8e5670b4707ca7e'}
+  - {seq: 0, role: markers, filename: assets/KR3eb042_000-jc.markers.yaml, hash: 'sha256:23d8074aff3c3212dc6c9fa230fa941f315f7f90ed4844ee0ab7234a1ac792cc'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,4 +71,4 @@ table_of_contents:
   label: 變症
   type: section
   level: 2
-hash: sha256:a5de8cbbee5c382ae782b5f798ec20c7c9b966b10bd0f04beb6f619b60c8d457
+hash: sha256:88085674bfc4c7df5655a4ea3972637b7b338ee1ef156d109a567ca96758c285

@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eb042_000.yaml, hash: 'sha256:21de423d2bdb09f3447b424dc8a2cca332ef0411e7c26a90f34c288bad77a316'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb042_000.markers.yaml, hash: 'sha256:6258b5e4d1d789088ad03a6b0e6cda1918a218c04ceb9e590786b8c6d8e79351'}
+  - {seq: 0, role: markers, filename: assets/KR3eb042_000.markers.yaml, hash: 'sha256:c43609821f570372542459c61d48ab71dac89be4e0c482439d412fb1edeef424'}
 table_of_contents:
 - ref:
     seq: 0
@@ -71,7 +71,7 @@ table_of_contents:
   label: 變症
   type: section
   level: 2
-hash: sha256:18c1fe012d2d5a42524ec9802ed663f7a3c3edcfe376dfb622e6d1990793523d
+hash: sha256:a8a6917eb5fb23e1fcb1c9f58075fe619c1bc3e819f8fe3cad0fca3bb9dba1b7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
